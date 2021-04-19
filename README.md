@@ -1,10 +1,10 @@
 # Gaussian-Naive-Bayes
-Fold----0
-Train Accuracy 95.0%
-Test Accuracy  94.0%
-Fold----1
-Train Accuracy 94.0%
-Test Accuracy  100.0%
-Fold----2
-Train Accuracy 98.0%
-Test Accuracy  90.0%
+Fold----0 <br />
+Train Accuracy 95.0% <br />
+Test Accuracy  94.0% <br />
+Fold----1 <br />
+Train Accuracy 94.0% <br />
+Test Accuracy  100.0% <br />
+Fold----2 <br />
+Train Accuracy 98.0% <br />
+Test Accuracy  90.0% <br />
