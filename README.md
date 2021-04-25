@@ -1,4 +1,4 @@
-# Gaussian-Naive-Bayes
+# Gaussian-Naive-Bayes-Classifier
 Fold----0 <br />
 Train Accuracy 95.0% <br />
 Test Accuracy  94.0% <br />
